@@ -141,7 +141,7 @@ We must also say a big thanks to [our contributors](https://github.com/ModernFly
 
 ## Beta Builds  🚧
 
-The ability to signup for beta builds has been temporarily disabled while we work on a better way to release and manage them. Beta builds will still occasionally be available to download fron the releases tab on github. Thank to everyone who help us test new releases and find bugs before they go public.
+The ability to signup for beta builds has been temporarily disabled while we work on a better way to release and manage them. Beta builds will still occasionally be available to download fron the releases tab on github. Thanks to everyone who help us test new releases and find bugs before they go public.
 
 ------------------------
 
